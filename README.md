@@ -12,7 +12,7 @@ Proyecto **Calculadora Open Source** desarrollado para la clase de **Programaci�
 
 ![Menu](images/Menu.png)
 
-**Figura 1.** *Interfaz de la Calculadora*
+**Figura 1.** *Interfaz de la calculadora*
 
 ## 📋 Características
 
@@ -59,6 +59,8 @@ python suma_avanzada.py
 ```
 
 ![Funcionamiento](images/funcionamiento.gif)
+
+**Figura 2.** *Calculadora en funcionamiento*
 
 ## 📁 Estructura del Proyecto
 
