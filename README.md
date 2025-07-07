@@ -58,6 +58,8 @@ python dividir.py
 python suma_avanzada.py
 ```
 
+![Funcionamiento](images/funcionamiento.gif)
+
 ## 📁 Estructura del Proyecto
 
 ```
