@@ -11,6 +11,7 @@
 Proyecto **Calculadora Open Source** desarrollado para la clase de **Programación Avanzada** en la carrera de **Ingeniería en Inteligencia Artificial** en **Hybridge Education.**
 
 ![Menu](images/Menu.png)
+**Figura 1.** *Interfaz de la Calculadora*
 
 ## 📋 Características
 
