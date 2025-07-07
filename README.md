@@ -9,6 +9,7 @@
 
 ## Resumen
 Proyecto **Calculadora Open Source** desarrollado para la clase de **Programación Avanzada** en la carrera de **Ingeniería en Inteligencia Artificial** en **Hybridge Education.**
+
 ![Menu](images/Menu.png)
 
 ## 📋 Características
